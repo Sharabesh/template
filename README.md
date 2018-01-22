@@ -1,2 +1,2 @@
-# BerkeleyMajors
-Agglomerating Berkeley Major Data into a concise platform
+# Template
+A template for Tornado based Web applications
